@@ -1,4 +1,4 @@
-# Responsive Plants Website 🎍
+# Plantex Website
 
 ## Dev: Ali Samir
 
